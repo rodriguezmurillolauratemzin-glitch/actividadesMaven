@@ -1,0 +1,6 @@
+INFORME DE PRÉSTAMOS
+--------------------
+Número total de préstamos: 2
+
+Código: P001 - Material: Portátil HP - Solicitante: Ana
+Código: P002 - Material: Ratón inalámbrico - Solicitante: Luis
